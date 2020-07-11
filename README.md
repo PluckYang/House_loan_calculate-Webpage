@@ -1,1 +1,2 @@
-# House_loan_calculate-Webpage
+House_loan_calculate-Webpage  
+exercise of using Html\css\JS
